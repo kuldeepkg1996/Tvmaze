@@ -26,6 +26,7 @@ function FrontPage() {
                 console.log(result)
             })
          }
+//         eslint-disable-next-line
     },[input])
 
 
